@@ -1,7 +1,7 @@
 require "sogou/translate/version"
+require "sogou/translate/get"
 
 module Sogou
   module Translate
-    # Your code goes here...
   end
 end
