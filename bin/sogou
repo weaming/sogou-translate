@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require "sogou/translate/cli"
+
+Sogou::Translate::CLI.start(ARGV)
