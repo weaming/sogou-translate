@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "sogou-translate"
   spec.description   = "sogou-translate through web api"
-  spec.homepage      = "sogou-translate"
+  spec.homepage      = "https://github.com/weaming/sogou-translate"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
