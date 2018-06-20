@@ -3,13 +3,13 @@ require "sogou/translate/get"
 
 def red(text)
     code = 31
-    return "\e[#{code}m#{text}\033[0m"
+    return "\e[#{code}m#{text}\e[0m"
 end
 
 
 def green(text)
     code = 32
-    return "\e[#{code}m#{text}\033[0m"
+    return "\e[#{code}m#{text}\e[0m"
 end
 
 
